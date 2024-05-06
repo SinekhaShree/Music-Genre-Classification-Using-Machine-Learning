@@ -1,10 +1,10 @@
-Music Genre Classification Project
+## Music Genre Classification Project
 
-Overview
+## Overview
 
 This project aims to classify music genres based on audio features extracted from music samples using various machine learning algorithms. The dataset contains a comprehensive collection of audio features across multiple genres, including statistical properties, spectral characteristics, and rhythm patterns.
 
-Features
+## Features
 
 Dataset: The dataset comprises audio features extracted from music samples spanning various genres, ensuring a diverse and representative sample for classification.
 
@@ -12,7 +12,7 @@ Algorithms: The project employs a range of machine learning algorithms, includin
 
 Evaluation: Performance evaluation is conducted using standard metrics such as accuracy, precision, recall, and F1-score to assess the effectiveness of each classification model.
 
-Usage
+## Usage
 
 Dataset Preparation: Ensure that the dataset is properly formatted and located in the data directory.
 
@@ -20,7 +20,7 @@ Configuration: Adjust hyperparameters and model configurations as needed in the 
 
 Execution: Run the main script to initiate the training and evaluation process for the classification models.
 
-Results
+## Results
 
 Detailed performance metrics, including accuracy, precision, recall, and F1-score, are provided in the project report.
 
